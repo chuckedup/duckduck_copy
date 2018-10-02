@@ -1,3 +1,7 @@
-html{
-    bacground-color:#f7f7f7;
+.container{
+    text-align: center;
+}
+.french{
+    display: inline-block;
+    color:blue;
 }
